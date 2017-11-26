@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: Arial, sans-serif;
+	color: #FFF;
+	background-color: #190000;
+	width: 1024px;
+	height: auto;	
+	margin: auto;
+	}  
+	
+#contenedor{
+	width: 1024px;
+	height: auto;	
+	margin: auto;
+	background-image: url(../img/fondo.jpg);
+	margin-bottom: -10px;
+	}
+	
+	#logo, nav{	
+    float:left; 
+    position:relative; 
+    top:34.8px; 
+    left:66px;
+}
+
+nav{	
+	margin:60px auto 0 30px;
+	padding:15px 0px 15px 20px;
+	background-color:rgba(1,0,1,0.8);
+	font-weight:bold;
+	font-size:16pt;
+    border-radius: 10px;
+}
+nav a{
+	color:white;
+	text-decoration: none;	
+	padding-right:20px;
+}
+
+
+
+
+
+
+h2, h4{
+	font-size:20px;
+	}
+
+section{
+	height: 1500px;
+	width: 1024px;
+	}
+
+#horarios {
+	background-color: #562916;
+	opacity: 0.8;
+	width: 800px; 
+	height: 1200px;
+	position: relative;
+	top: 250px;
+	left: 100px;
+	}
+
+
+h1{
+	position: relative;
+	top: -85px;
+	right: 100px;
+	}
+	
+h2{
+	position: relative;
+	right: -42px;
+	top: 10px;
+	
+	}
+	
+h4{
+	position: relative;
+	top: 20px;
+	right: -40px;
+	}
+
+#molidos{
+	position: relative;
+	top: -80px;
+	right:-156px;
+
+	}
+	
+#tostado{	
+	position: relative;
+	top: -359px;
+	left: 450px;
+	}
+	
+#variedades{
+	position: relative;
+	top: -330px;
+	left: 160px;
+	}
+	
+#arte{
+	position: relative;
+	top: -595px;
+	left: 450px;
+	}
+	
+#nicolas{
+	position: relative;
+	top: -587px;
+	left: 160px;
+	}
+	
+#arley{
+	position: relative;
+	top: -853px;
+	left: 450px;
+	}
+	
+#sorteo{
+	position: relative;
+	top: -860px;
+	left: 310px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+#logolegales{
+	float: left;
+	}
+
+#texto{ 
+	margin-left: 9px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-size:9px;
+	height: 40px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	}
+	
+#mision{
+	background-color: #594437;
+	height: 70px;
+	}
+
+#legales{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #412D25;
+	color:#FFFFFF;
+	font-size:9px;
+	height: 30px;
+	padding-top: 2px;
+	padding-left: 20px;
+	}
+
+#faceinsta{
+	margin-left:950px;
+	margin-top:-30px;
+	}

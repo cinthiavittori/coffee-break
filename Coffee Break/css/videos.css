@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: Arial, sans-serif;
+	color: #FFF;
+	background-color: #190000;
+	width: 1024px;
+	height: auto;	
+	margin: auto;
+	}  
+	
+#contenedor{
+	width: 1024px;
+	height: auto;	
+	margin: auto;
+	background-image: url(../img/fondo.jpg);
+	margin-bottom: -10px;
+	}
+	
+	#logo, nav{	
+    float:left; 
+    position:relative; 
+    top:34.8px; 
+    left:66px;
+}
+
+nav{	
+	margin:60px auto 0 30px;
+	padding:15px 0px 15px 20px;
+	background-color:rgba(1,0,1,0.8);
+	font-weight:bold;
+	font-size:8pt;
+    border-radius: 10px;}
+nav a{
+	color:white;
+	text-decoration: none;	
+	padding-right:20px;
+}
+
+#logo, nav{ 
+    float:left; 
+    position:relative; 
+    top:34.8px; 
+    left:66px;
+}
+
+nav{	
+	margin:60px auto 0 30px;
+	padding:15px 0px 15px 20px;
+	background-color:rgba(1,0,1,0.8);
+	font-weight:bold;
+	font-size:16pt;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+nav a{
+	color:white;
+	text-decoration: none; 
+	padding-right:20px;
+}
+
+
+
+
+section{
+	height: 1450px;
+	width: 1024px;
+}
+
+
+#intro{
+	position: relative;
+	top: 100px;
+	float: left;
+
+
+	}
+	
+h2{
+	font-size:16pt;
+}
+
+#pasos{
+	background-color: #562916;
+	opacity: 0.8;
+	width: 370px; 
+	height: 670px;
+	position:relative;
+	top: 320px;
+	left: 100px;
+	}
+
+#con{
+	float: right;
+	margin-right: 90px;
+	position: relative;
+	bottom: 180px;
+	}
+
+
+#premios{
+	background-color: #562916;
+	opacity: 0.8;
+	width: 370px; 
+	height: 670px;
+	position:relative;
+	top: -345px;
+	left: 550px;
+	}
+	
+#cont{
+	position: relative;
+	left: 130px;
+	bottom: -130px;
+		}
+
+h3{
+	float: right;
+	position: relative;
+	top:-300px;
+	right: 200px;
+	}
+		
+h4{
+	font-size:15pt;
+	}
+		
+#videos1{
+	position:relative;
+	top: -300px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+	}
+
+#videos2{
+	position:relative;
+	top: -300px;
+	margin-left: 200px;
+	}
+
+#flecha{
+	position: relative;
+	bottom:270px;
+	left: 450px;
+	}
+
+
+    footer{
+        width: 1024px;
+        height: 98px;
+        position:relative;
+        top: 80px;
+        background-color: #5D4239;
+    
+        }
+    
+    
+    #logolegales{
+        float: left;
+        margin-left: 10px;
+        margin-top: 5px;
+        
+       
+        }
+    
+    #texto{ 
+     
+        margin-left:59px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        font-size:8px;
+        height: 60px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        color:#FFFFFF;
+       
+    
+    }
+            
+    #legales{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #422D24;
+        color:#FFFFFF;
+        font-size:9px;
+        height: 30px;
+        padding-top: 2px;
+        padding-left: 20px;
+       
+    } 
+    
+    #faceinsta{
+        margin-left:950px;
+        margin-top:-30px;
+        
+    }
+    
